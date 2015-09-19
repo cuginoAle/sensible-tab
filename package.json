@@ -1,0 +1,18 @@
+{
+  "name": "sensible-tab",
+  "main": "./lib/sensible-tab",
+  "version": "1.0.0",
+  "description": "Switches between two last tabs with ctrl-tab",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "sensible-tab:show-prev-tab"
+  },
+  "repository": "https://github.com/krzychu/sensible-tab",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
